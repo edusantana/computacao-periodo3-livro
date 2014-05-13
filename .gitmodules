@@ -1,0 +1,9 @@
+[submodule "matematica-computacional-livro"]
+	path = matematica-computacional-livro
+	url = git@github.com:edusantana/matematica-computacional-livro.git
+[submodule "estruturas-de-dados-livro"]
+	path = estruturas-de-dados-livro
+	url = git@github.com:edusantana/estruturas-de-dados-livro.git
+[submodule "introducao-a-arquitetura-de-computadores-livro"]
+	path = introducao-a-arquitetura-de-computadores-livro
+	url = git@github.com:edusantana/introducao-a-arquitetura-de-computadores-livro.git
